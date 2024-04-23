@@ -1,4 +1,4 @@
-# chaotic-model-dection
+# Chaotic-model-dection
 
 <!-- BUILT WITH -->
 
