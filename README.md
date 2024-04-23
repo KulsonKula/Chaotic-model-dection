@@ -14,7 +14,7 @@
 
 ## About The Project
 
-As part of the project, recurrent neural networks with Long Short-Term Memory (LSTM) modules were applied to the problem of classifying outputs of dynamic systems associated with assessing the chaotic behavior of these systems.
+As part of the project, recurrent neural networks with Long Short-Term Memory modules were applied to the problem of classifying outputs of dynamic systems associated with assessing the chaotic behavior of these systems.
 
 
 <!-- ACKNOWLEDGMENTS -->
