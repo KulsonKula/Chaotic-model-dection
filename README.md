@@ -21,6 +21,9 @@ As part of the project, recurrent neural networks with Long Short-Term Memory (L
 
 ## Acknowledgments
 
+- [Datasets for learning of unknown characteristics of dynamical systems](https://www.nature.com/articles/s41597-023-01978-7)
+- [Description of dynamical models and provided datasets](https://draugustyn.gitlab.io/signal-data/)
+- [Dataset generator](https://gitlab.com/draugustyn/signal-data)
 - [Tensorflow documentation](https://www.tensorflow.org/?hl=pl)
 - [Sci-hub](https://www.sci-hub.se/)
 
