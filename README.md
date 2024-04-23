@@ -1,4 +1,4 @@
-# Chaotic-model-dection
+# Chaotic model detection
 
 <!-- BUILT WITH -->
 
